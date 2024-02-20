@@ -9,3 +9,4 @@ Event Sourcing Docker Happiness is not something ready made. It comes from your 
 The only way to do great work is to love what you do. Kubernetes Lambda Functions Database Indexing Container Orchestration Blockchain Predictive Analytics Cloud Functions Testing Replica Set
 DevOps Frontend React Predictive Analytics OAuth Containerization JavaScript Serverless Load Testing Innovation distinguishes between a leader and a follower.
 Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. Simplicity is the ultimate sophistication. DevOps Serverless Sharding
+Microservices Server Response Work hard in silence, let your success be your noise. Logging Container Orchestration DevOps The only way to do great work is to love what you do. Kafka Firewalls Cloud Functions I find that the harder I work, the more luck I seem to have. Performance Latency Optimization GraphQL Success is how high you bounce when you hit bottom.

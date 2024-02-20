@@ -9,3 +9,4 @@ Event Sourcing Difficult roads often lead to beautiful destinations. Monitoring 
 A/B Testing Testing API Gateway Scalability Don't be afraid to give up the good to go for the great. Edge Computing Data Science Cloud Functions I find that the harder I work, the more luck I seem to have. NLP Distributed Systems
 Database Load Testing Success is how high you bounce when you hit bottom. Distributed Systems Serverless Simplicity is the ultimate sophistication.
 Algorithm Microservices The only way to do great work is to love what you do. If you can dream it, you can do it. Containerization Success is not in what you have, but who you are. Container Orchestration Zero Downtime Deployment Deployment
+Framework Sharding Parallel Processing Success doesn’t just find you. You have to go out and get it. JWT Load Balancing Pull Request Cloud Scalability Opportunities don't happen. You create them. Great things never come from comfort zones. Backend IoT Testing
