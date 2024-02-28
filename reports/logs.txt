@@ -9,3 +9,4 @@ Simplicity is the ultimate sophistication. Backend IoT Agile Data Pipeline Scala
 Blockchain Act as if what you do makes a difference. It does. Containerization IoT Event Sourcing GraphQL
 Version Control Python DevOps Artificial Intelligence Kafka Blockchain Data Science Serverless
 Automation Cloud Functions Parallel Processing Data Science The only way to do great work is to love what you do. Agile Don't be afraid to give up the good to go for the great. Sharding
+Security Docker Version Control Database Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst. Success doesn’t just find you. You have to go out and get it. Code Review Container Orchestration IoT API Agile
