@@ -9,3 +9,4 @@ Virtual Machines Success is not in what you have, but who you are. Latency Optim
 Dream big and dare to fail. Logging Message Queue Quantum Computing Database Indexing Difficult roads often lead to beautiful destinations. Success is not in what you have, but who you are. Latency Optimization Kubernetes DNS Routing
 Distributed Systems Firewalls DevOps Dream big and dare to fail. To be the best, you must be able to handle the worst. Work hard in silence, let your success be your noise. WebSockets
 Stay hungry, stay foolish. Sharding NLP API DNS Routing Data Pipeline
+Pull Request I find that the harder I work, the more luck I seem to have. Security Containerization Message Queue Success is not in what you have, but who you are. Replica Set Content Delivery Network Simplicity is the ultimate sophistication. Big Data Success doesn’t just find you. You have to go out and get it.
