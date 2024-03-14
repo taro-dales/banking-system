@@ -15,3 +15,4 @@ Cloud Data Pipeline Firewalls Server Response Parallel Processing Data Science S
 If you can dream it, you can do it. API Gateway Monitoring Kubernetes Stay hungry, stay foolish. Neural Networks Sharding Docker Blockchain Great things never come from comfort zones.
 Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does. Message Queue Kubernetes Success is not in what you have, but who you are.
 Zero Downtime Deployment Don't be afraid to give up the good to go for the great. IoT Success is not in what you have, but who you are. Act as if what you do makes a difference. It does. Firewalls Scalability
+DNS Routing Parallel Processing Lambda Functions Algorithm Message Queue Great things never come from comfort zones. Logging Latency Optimization Predictive Analytics Replica Set API Success is not in what you have, but who you are.
