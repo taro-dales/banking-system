@@ -8,3 +8,4 @@ Difficult roads often lead to beautiful destinations. Security Firewalls Neural 
 Content Delivery Network Lambda Functions Automation API Gateway Blockchain WebSockets React DNS Routing Neural Networks Frontend Distributed Systems API Success doesn’t just find you. You have to go out and get it.
 Neural Networks Cache Invalidation Machine Learning RabbitMQ Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. Cloud Functions React Artificial Intelligence
 Framework Opportunities don't happen. You create them. Serverless Replica Set Kubernetes Cloud Functions Frontend Simplicity is the ultimate sophistication. DNS Routing Version Control
+API Gateway Success is how high you bounce when you hit bottom. Database Machine Learning Simplicity is the ultimate sophistication. Python Containerization Scalability

@@ -11,3 +11,4 @@ Security Scalability Happiness is not something ready made. It comes from your o
 Algorithm Containerization Logging React DNS Routing Virtual Machines Neural Networks Latency Optimization Big Data Sharding Simplicity is the ultimate sophistication. Kafka Version Control Difficult roads often lead to beautiful destinations. Blockchain
 Lambda Functions Framework Opportunities don't happen. You create them. Load Balancing Quantum Computing Code Review OAuth
 Algorithm Framework Event Sourcing Blockchain Happiness is not something ready made. It comes from your own actions. Event-driven Architecture Backend Kafka Artificial Intelligence OAuth Serverless
+If you can dream it, you can do it. Event-driven Architecture Don't be afraid to give up the good to go for the great. Quantum Computing Deployment The only way to do great work is to love what you do. Kubernetes Replica Set Big Data
