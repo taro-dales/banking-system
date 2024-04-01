@@ -8,3 +8,4 @@ Success usually comes to those who are too busy to be looking for it. Data Scien
 Event Sourcing Docker Happiness is not something ready made. It comes from your own actions. Testing Optimization To be the best, you must be able to handle the worst. Predictive Analytics Virtual Machines Containerization Cloud Database Success is how high you bounce when you hit bottom. Code Review
 The only way to do great work is to love what you do. Kubernetes Lambda Functions Database Indexing Container Orchestration Blockchain Predictive Analytics Cloud Functions Testing Replica Set
 DevOps Frontend React Predictive Analytics OAuth Containerization JavaScript Serverless Load Testing Innovation distinguishes between a leader and a follower.
+Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. Simplicity is the ultimate sophistication. DevOps Serverless Sharding
