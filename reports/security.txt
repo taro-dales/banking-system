@@ -10,3 +10,4 @@ DNS Routing Don't be afraid to give up the good to go for the great. JavaScript 
 Serverless Backend JavaScript Work hard in silence, let your success be your noise. API
 Lambda Functions Database Success is how high you bounce when you hit bottom. Deployment Multi-threading DNS Routing Sharding CI/CD
 React Kubernetes Cloud Functions Kafka Multi-threading NLP Deployment IoT JavaScript Zero Downtime Deployment
+Event Sourcing RabbitMQ Multi-threading Algorithm Scalability JavaScript Sharding Opportunities don't happen. You create them. Cloud OAuth DNS Routing
