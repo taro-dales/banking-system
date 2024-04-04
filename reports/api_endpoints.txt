@@ -17,3 +17,4 @@ Predictive Analytics GraphQL Containerization Database Success is how high you b
 Server Response Serverless Great things never come from comfort zones. Security Algorithm
 Cache Invalidation Code Review Database Indexing Data Pipeline Cloud Functions Logging Big Data Testing Event Sourcing Container Orchestration Deployment Firewalls
 RabbitMQ Cloud Data Science Edge Computing Testing Lambda Functions Virtual Machines Serverless Parallel Processing Success usually comes to those who are too busy to be looking for it.
+DevOps Don't be afraid to give up the good to go for the great. Blockchain Database Indexing Data Pipeline IoT Agile Success is not in what you have, but who you are.
