@@ -12,3 +12,4 @@ A/B Testing Event-driven Architecture API Gateway Big Data Happiness is not some
 Database Indexing Server Response Cloud Simplicity is the ultimate sophistication. Multi-threading Zero Downtime Deployment Firewalls Artificial Intelligence API The only way to do great work is to love what you do. Load Testing
 Kafka Don't be afraid to give up the good to go for the great. Backend Security Framework Database Indexing Difficult roads often lead to beautiful destinations. JWT NLP Opportunities don't happen. You create them. DevOps WebSockets Machine Learning API
 If you can dream it, you can do it. Kafka Difficult roads often lead to beautiful destinations. Replica Set Machine Learning Deployment
+JavaScript Machine Learning Logging CI/CD Kubernetes Blockchain API IoT
