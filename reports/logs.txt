@@ -7,3 +7,4 @@ Performance Blockchain Difficult roads often lead to beautiful destinations. Dev
 Algorithm Stay hungry, stay foolish. Backend OAuth Difficult roads often lead to beautiful destinations. Code Review Deployment RabbitMQ Data Pipeline Kubernetes Do what you love and the money will follow.
 Simplicity is the ultimate sophistication. Backend IoT Agile Data Pipeline Scalability Big Data
 Blockchain Act as if what you do makes a difference. It does. Containerization IoT Event Sourcing GraphQL
+Version Control Python DevOps Artificial Intelligence Kafka Blockchain Data Science Serverless
