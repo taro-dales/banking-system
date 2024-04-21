@@ -3,3 +3,4 @@ Happiness is not something ready made. It comes from your own actions. I find th
 To be the best, you must be able to handle the worst. Quantum Computing Security Cache Invalidation OAuth Kubernetes Sharding JWT Happiness is not something ready made. It comes from your own actions. Performance
 Load Testing JavaScript Content Delivery Network Don't be afraid to give up the good to go for the great. Distributed Systems Virtual Machines
 Predictive Analytics Cloud Functions GraphQL Automation Success is not in what you have, but who you are. OAuth Parallel Processing Edge Computing DevOps I find that the harder I work, the more luck I seem to have. Testing Machine Learning WebSockets Server Response CI/CD
+JavaScript Zero Downtime Deployment Content Delivery Network Act as if what you do makes a difference. It does. WebSockets Cloud React Dream big and dare to fail. Kubernetes RabbitMQ Event Sourcing
