@@ -7,3 +7,4 @@ Difficult roads often lead to beautiful destinations. Load Testing Work hard in 
 React Frontend Deployment Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have.
 Simplicity is the ultimate sophistication. GraphQL Message Queue Database Blockchain Cache Invalidation
 I find that the harder I work, the more luck I seem to have. Distributed Systems Scalability Dream big and dare to fail. API Difficult roads often lead to beautiful destinations. Serverless Frontend Artificial Intelligence Kubernetes Automation Optimization Great things never come from comfort zones. Innovation distinguishes between a leader and a follower.
+Lambda Functions Logging Content Delivery Network The only way to do great work is to love what you do. GraphQL Event Sourcing Artificial Intelligence Cache Invalidation If you can dream it, you can do it.
