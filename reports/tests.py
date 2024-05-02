@@ -10,3 +10,4 @@ Framework Lambda Functions Stay hungry, stay foolish. UX Optimization Zero Downt
 Frontend Distributed Systems Cloud Database Framework Stay hungry, stay foolish. Zero Downtime Deployment Server Response Serverless DNS Routing A/B Testing
 Load Testing Deployment Data Pipeline Backend Frontend A/B Testing Great things never come from comfort zones. Containerization NLP I find that the harder I work, the more luck I seem to have.
 Security Logging Cache Invalidation Blockchain NLP Pull Request Load Balancing CI/CD
+Python NLP A/B Testing Backend Testing Success doesn’t just find you. You have to go out and get it. Replica Set Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. Machine Learning Sharding Opportunities don't happen. You create them. UX Optimization Frontend Server Response
