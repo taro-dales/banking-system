@@ -15,3 +15,4 @@ Machine Learning Code Review Multi-threading Artificial Intelligence Zero Downti
 Latency Optimization Success usually comes to those who are too busy to be looking for it. Cache Invalidation Quantum Computing Version Control Performance Monitoring Load Testing Neural Networks
 Predictive Analytics GraphQL Containerization Database Success is how high you bounce when you hit bottom. Parallel Processing Virtual Machines DevOps Success usually comes to those who are too busy to be looking for it. DNS Routing Stay hungry, stay foolish.
 Server Response Serverless Great things never come from comfort zones. Security Algorithm
+Cache Invalidation Code Review Database Indexing Data Pipeline Cloud Functions Logging Big Data Testing Event Sourcing Container Orchestration Deployment Firewalls
