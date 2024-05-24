@@ -9,3 +9,4 @@ Data Pipeline Data Science Don't be afraid to give up the good to go for the gre
 Framework Lambda Functions Stay hungry, stay foolish. UX Optimization Zero Downtime Deployment Agile Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. Cloud Functions React Code Review Event-driven Architecture Kafka Simplicity is the ultimate sophistication. Success is not in what you have, but who you are.
 Frontend Distributed Systems Cloud Database Framework Stay hungry, stay foolish. Zero Downtime Deployment Server Response Serverless DNS Routing A/B Testing
 Load Testing Deployment Data Pipeline Backend Frontend A/B Testing Great things never come from comfort zones. Containerization NLP I find that the harder I work, the more luck I seem to have.
+Security Logging Cache Invalidation Blockchain NLP Pull Request Load Balancing CI/CD

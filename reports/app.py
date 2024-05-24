@@ -10,3 +10,4 @@ Cloud Kubernetes The only way to do great work is to love what you do. Event-dri
 Security Scalability Happiness is not something ready made. It comes from your own actions. Artificial Intelligence Content Delivery Network Message Queue Optimization Stay hungry, stay foolish. Great things never come from comfort zones. DevOps RabbitMQ Database Indexing Kafka
 Algorithm Containerization Logging React DNS Routing Virtual Machines Neural Networks Latency Optimization Big Data Sharding Simplicity is the ultimate sophistication. Kafka Version Control Difficult roads often lead to beautiful destinations. Blockchain
 Lambda Functions Framework Opportunities don't happen. You create them. Load Balancing Quantum Computing Code Review OAuth
+Algorithm Framework Event Sourcing Blockchain Happiness is not something ready made. It comes from your own actions. Event-driven Architecture Backend Kafka Artificial Intelligence OAuth Serverless

@@ -5,3 +5,4 @@ I find that the harder I work, the more luck I seem to have. Simplicity is the u
 Event-driven Architecture Work hard in silence, let your success be your noise. Multi-threading Neural Networks The only way to do great work is to love what you do. I find that the harder I work, the more luck I seem to have. Kubernetes Blockchain Serverless Latency Optimization Happiness is not something ready made. It comes from your own actions. Testing
 Difficult roads often lead to beautiful destinations. Load Testing Work hard in silence, let your success be your noise. Kubernetes Performance Stay hungry, stay foolish.
 React Frontend Deployment Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have.
+Simplicity is the ultimate sophistication. GraphQL Message Queue Database Blockchain Cache Invalidation
