@@ -4,3 +4,4 @@ Don't be afraid to give up the good to go for the great. Big Data Work hard in s
 GraphQL Logging Deployment Backend Database Opportunities don't happen. You create them.
 Difficult roads often lead to beautiful destinations. The only way to do great work is to love what you do. Code Review JWT Microservices CI/CD Work hard in silence, let your success be your noise. Data Science Pull Request Frontend Framework GraphQL
 Database Indexing Edge Computing Deployment Cloud Functions API Lambda Functions Work hard in silence, let your success be your noise. Predictive Analytics Pull Request Load Balancing Data Pipeline Parallel Processing React DevOps
+Machine Learning Simplicity is the ultimate sophistication. Distributed Systems RabbitMQ Sharding Happiness is not something ready made. It comes from your own actions. Deployment Data Pipeline Algorithm Content Delivery Network Python Edge Computing DevOps Testing Container Orchestration
