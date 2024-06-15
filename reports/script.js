@@ -7,3 +7,4 @@ Happiness is not something ready made. It comes from your own actions. Don't be 
 The only way to do great work is to love what you do. Stay hungry, stay foolish. Neural Networks Python Deployment Multi-threading A/B Testing
 I find that the harder I work, the more luck I seem to have. UX Optimization Microservices API Gateway Message Queue Success usually comes to those who are too busy to be looking for it. Sharding Pull Request Cache Invalidation DNS Routing Machine Learning Frontend Firewalls Great things never come from comfort zones.
 GraphQL Monitoring Serverless Neural Networks JWT Performance Cloud Optimization Virtual Machines Cache Invalidation IoT Deployment UX Optimization Server Response
+Cloud Simplicity is the ultimate sophistication. Load Balancing Agile Serverless DNS Routing Version Control Docker Predictive Analytics Dream big and dare to fail. Machine Learning Event Sourcing Success doesn’t just find you. You have to go out and get it. Database IoT
