@@ -7,3 +7,4 @@ Python Artificial Intelligence Kubernetes UX Optimization Success is how high yo
 Database Indexing Simplicity is the ultimate sophistication. API Gateway Monitoring To be the best, you must be able to handle the worst. Big Data Neural Networks Stay hungry, stay foolish.
 Load Testing Great things never come from comfort zones. Success usually comes to those who are too busy to be looking for it. Difficult roads often lead to beautiful destinations. API Cloud Functions Virtual Machines Scalability
 DNS Routing Don't be afraid to give up the good to go for the great. JavaScript Success doesn’t just find you. You have to go out and get it. Message Queue Quantum Computing Innovation distinguishes between a leader and a follower. DevOps
+Serverless Backend JavaScript Work hard in silence, let your success be your noise. API
