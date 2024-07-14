@@ -3,3 +3,4 @@ Opportunities don't happen. You create them. Version Control Deployment Stay hun
 Distributed Systems UX Optimization Kubernetes Server Response Cloud Kafka Big Data Virtual Machines Testing Cache Invalidation
 UX Optimization Big Data OAuth Innovation distinguishes between a leader and a follower. Cache Invalidation
 Artificial Intelligence Monitoring Data Science Event Sourcing Success is how high you bounce when you hit bottom. DNS Routing Firewalls Code Review Performance Latency Optimization
+I find that the harder I work, the more luck I seem to have. UX Optimization Agile Docker Lambda Functions Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it. Predictive Analytics JWT
