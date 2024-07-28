@@ -4,3 +4,4 @@ Data Pipeline Dream big and dare to fail. Database Backend Predictive Analytics 
 Artificial Intelligence Innovation distinguishes between a leader and a follower. Server Response Code Review Big Data
 Server Response If you can dream it, you can do it. Deployment Parallel Processing Act as if what you do makes a difference. It does. DevOps Python
 Big Data Frontend Success usually comes to those who are too busy to be looking for it. Virtual Machines UX Optimization Container Orchestration Message Queue Python Cloud Logging Lambda Functions Success doesn’t just find you. You have to go out and get it.
+Success usually comes to those who are too busy to be looking for it. Data Science Optimization Pull Request Virtual Machines Framework The only way to do great work is to love what you do. Artificial Intelligence IoT Success is how high you bounce when you hit bottom. Kubernetes Cloud Functions Don't be afraid to give up the good to go for the great.
