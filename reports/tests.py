@@ -2,3 +2,4 @@ Cloud Functions Multi-threading DNS Routing Success is not in what you have, but
 API Cloud Algorithm Sharding Docker Simplicity is the ultimate sophistication. Microservices Do what you love and the money will follow. Parallel Processing Neural Networks JavaScript
 I find that the harder I work, the more luck I seem to have. CI/CD Agile Cache Invalidation OAuth Lambda Functions IoT Latency Optimization Virtual Machines Performance Docker React Logging Deployment Data Science
 Code Review Automation Big Data OAuth CI/CD Parallel Processing Blockchain Cache Invalidation Algorithm
+Load Balancing Database Indexing Opportunities don't happen. You create them. Stay hungry, stay foolish. Blockchain RabbitMQ OAuth WebSockets Innovation distinguishes between a leader and a follower. Message Queue Success doesn’t just find you. You have to go out and get it. Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom.
