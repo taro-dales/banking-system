@@ -6,3 +6,4 @@ Distributed Systems Simplicity is the ultimate sophistication. DNS Routing Happi
 Python To be the best, you must be able to handle the worst. Frontend Sharding Difficult roads often lead to beautiful destinations. Code Review Docker Serverless Microservices Database Algorithm
 DevOps NLP Message Queue Frontend Quantum Computing Simplicity is the ultimate sophistication. Cloud Difficult roads often lead to beautiful destinations. Scalability Docker Artificial Intelligence
 Event Sourcing Difficult roads often lead to beautiful destinations. Monitoring Container Orchestration Frontend Artificial Intelligence Sharding Success is how high you bounce when you hit bottom. Distributed Systems Kafka Pull Request
+A/B Testing Testing API Gateway Scalability Don't be afraid to give up the good to go for the great. Edge Computing Data Science Cloud Functions I find that the harder I work, the more luck I seem to have. NLP Distributed Systems
