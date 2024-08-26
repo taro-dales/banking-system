@@ -3,3 +3,4 @@ Container Orchestration Machine Learning Neural Networks Stay hungry, stay fooli
 Parallel Processing Automation I find that the harder I work, the more luck I seem to have. Server Response NLP Pull Request Cloud Functions Testing DevOps Innovation distinguishes between a leader and a follower. Version Control Python
 NLP Success doesn’t just find you. You have to go out and get it. Cache Invalidation Load Testing Innovation distinguishes between a leader and a follower. Edge Computing Deployment
 Code Review Cloud WebSockets Serverless Edge Computing Act as if what you do makes a difference. It does. Logging JavaScript
+Innovation distinguishes between a leader and a follower. Code Review A/B Testing WebSockets Kubernetes Cloud Functions RabbitMQ Framework Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Monitoring
