@@ -6,3 +6,4 @@ Cloud The only way to do great work is to love what you do. DNS Routing Latency 
 Do what you love and the money will follow. Predictive Analytics Serverless Database JavaScript Distributed Systems
 WebSockets Replica Set Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it. Success usually comes to those who are too busy to be looking for it. Distributed Systems Testing
 Microservices Innovation distinguishes between a leader and a follower. Parallel Processing OAuth Distributed Systems Predictive Analytics Success usually comes to those who are too busy to be looking for it. UX Optimization Cloud Python Don't be afraid to give up the good to go for the great. Kubernetes Zero Downtime Deployment Security CI/CD
+Artificial Intelligence Monitoring Cloud Functions Agile Firewalls Kubernetes Cache Invalidation UX Optimization Python Simplicity is the ultimate sophistication. Blockchain Quantum Computing

@@ -3,3 +3,4 @@ Agile DNS Routing Opportunities don't happen. You create them. Distributed Syste
 Logging Docker OAuth Event Sourcing Message Queue Innovation distinguishes between a leader and a follower. Zero Downtime Deployment Happiness is not something ready made. It comes from your own actions. Version Control Performance
 Cache Invalidation If you can dream it, you can do it. Success usually comes to those who are too busy to be looking for it. JWT OAuth Server Response API Predictive Analytics Framework Edge Computing JavaScript Security Deployment IoT Optimization
 JWT NLP Don't be afraid to give up the good to go for the great. Sharding Agile Containerization Pull Request
+Stay hungry, stay foolish. Server Response CI/CD Success usually comes to those who are too busy to be looking for it. NLP Act as if what you do makes a difference. It does. Frontend Don't be afraid to give up the good to go for the great. Framework Quantum Computing GraphQL
