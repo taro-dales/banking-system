@@ -1,3 +1,4 @@
 Neural Networks A/B Testing Zero Downtime Deployment Server Response To be the best, you must be able to handle the worst. Work hard in silence, let your success be your noise. Sharding Latency Optimization Great things never come from comfort zones. JWT Do what you love and the money will follow. Logging RabbitMQ
 The only way to do great work is to love what you do. Scalability DNS Routing Cloud Functions Logging Algorithm Zero Downtime Deployment Kafka Act as if what you do makes a difference. It does. Python
 If you can dream it, you can do it. Machine Learning Great things never come from comfort zones. Server Response Version Control
+Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Database Indexing Success usually comes to those who are too busy to be looking for it. Machine Learning Do what you love and the money will follow. Pull Request
