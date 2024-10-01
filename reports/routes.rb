@@ -1,2 +1,3 @@
 Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it. Logging Data Pipeline Distributed Systems Blockchain Lambda Functions Kubernetes Agile I find that the harder I work, the more luck I seem to have. OAuth Cloud
 Testing Zero Downtime Deployment Do what you love and the money will follow. Success is how high you bounce when you hit bottom. Version Control Cloud
+Cloud Load Balancing Kafka DNS Routing API Database Artificial Intelligence The only way to do great work is to love what you do. API Gateway
