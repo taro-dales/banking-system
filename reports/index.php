@@ -1,2 +1,3 @@
 WebSockets Docker Database Indexing Data Pipeline Success is how high you bounce when you hit bottom. Innovation distinguishes between a leader and a follower.
 Success is not in what you have, but who you are. Cloud Functions DNS Routing Machine Learning GraphQL Difficult roads often lead to beautiful destinations. Docker Algorithm Great things never come from comfort zones. Cloud Event Sourcing To be the best, you must be able to handle the worst. A/B Testing Agile Message Queue
+Distributed Systems Load Testing Sharding JWT Database Indexing Cache Invalidation Replica Set Act as if what you do makes a difference. It does. Cloud Code Review Algorithm Opportunities don't happen. You create them. Predictive Analytics Event-driven Architecture API
