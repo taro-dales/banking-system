@@ -1,2 +1,3 @@
 IoT Microservices API If you can dream it, you can do it. Latency Optimization Load Balancing Parallel Processing Container Orchestration Kafka Python Predictive Analytics Frontend Difficult roads often lead to beautiful destinations. CI/CD
 Blockchain Big Data Success is not in what you have, but who you are. Quantum Computing Database Indexing Performance Content Delivery Network
+Docker Microservices Message Queue Cloud Functions Automation Deployment Pull Request Database Indexing
