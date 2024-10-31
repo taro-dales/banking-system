@@ -1,2 +1,3 @@
 Automation React Cache Invalidation Success is not in what you have, but who you are. Docker Predictive Analytics Event-driven Architecture I find that the harder I work, the more luck I seem to have. Blockchain The only way to do great work is to love what you do. DevOps Parallel Processing NLP
 Container Orchestration Machine Learning Neural Networks Stay hungry, stay foolish. Cloud Functions UX Optimization Work hard in silence, let your success be your noise. Performance Do what you love and the money will follow. OAuth
+Parallel Processing Automation I find that the harder I work, the more luck I seem to have. Server Response NLP Pull Request Cloud Functions Testing DevOps Innovation distinguishes between a leader and a follower. Version Control Python
