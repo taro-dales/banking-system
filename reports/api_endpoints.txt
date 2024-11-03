@@ -3,3 +3,4 @@ Difficult roads often lead to beautiful destinations. Data Pipeline Deployment D
 Scalability Machine Learning The only way to do great work is to love what you do. Neural Networks Data Pipeline Distributed Systems Don't be afraid to give up the good to go for the great. WebSockets If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it. Framework Performance
 Frontend DNS Routing Load Testing Dream big and dare to fail. IoT GraphQL Message Queue Quantum Computing Success is how high you bounce when you hit bottom.
 Cloud The only way to do great work is to love what you do. DNS Routing Latency Optimization Container Orchestration DevOps Parallel Processing Content Delivery Network JWT Zero Downtime Deployment Machine Learning Distributed Systems Cache Invalidation
+Do what you love and the money will follow. Predictive Analytics Serverless Database JavaScript Distributed Systems
