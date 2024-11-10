@@ -1,3 +1,4 @@
 Database Zero Downtime Deployment If you can dream it, you can do it. Data Pipeline Monitoring Virtual Machines Artificial Intelligence
 Optimization Difficult roads often lead to beautiful destinations. To be the best, you must be able to handle the worst. Parallel Processing Predictive Analytics Performance Serverless Lambda Functions Opportunities don't happen. You create them. Deployment WebSockets
 Distributed Systems Multi-threading CI/CD JavaScript Cloud Python Firewalls Difficult roads often lead to beautiful destinations. Replica Set Predictive Analytics Container Orchestration
+Difficult roads often lead to beautiful destinations. Deployment JWT Database Indexing Opportunities don't happen. You create them. Success is not in what you have, but who you are. JavaScript Virtual Machines Kafka Parallel Processing Multi-threading
