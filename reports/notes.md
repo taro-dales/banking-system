@@ -1,0 +1,1 @@
+I find that the harder I work, the more luck I seem to have. Act as if what you do makes a difference. It does. Dream big and dare to fail. Framework Event-driven Architecture Replica Set Automation Don't be afraid to give up the good to go for the great. Firewalls Big Data Work hard in silence, let your success be your noise. Virtual Machines
