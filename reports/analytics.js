@@ -1,1 +1,2 @@
 Logging Containerization Virtual Machines Microservices CI/CD Difficult roads often lead to beautiful destinations. DNS Routing Success doesn’t just find you. You have to go out and get it. Blockchain If you can dream it, you can do it.
+Pull Request Simplicity is the ultimate sophistication. Agile Do what you love and the money will follow. RabbitMQ Neural Networks Containerization Database Indexing CI/CD Multi-threading Great things never come from comfort zones. Event-driven Architecture
