@@ -1,2 +1,3 @@
 Work hard in silence, let your success be your noise. API Gateway To be the best, you must be able to handle the worst. Optimization Stay hungry, stay foolish. Microservices Kafka Blockchain Innovation distinguishes between a leader and a follower. API
 Agile DNS Routing Opportunities don't happen. You create them. Distributed Systems WebSockets Happiness is not something ready made. It comes from your own actions. Multi-threading Data Pipeline IoT Success is not in what you have, but who you are.
+Logging Docker OAuth Event Sourcing Message Queue Innovation distinguishes between a leader and a follower. Zero Downtime Deployment Happiness is not something ready made. It comes from your own actions. Version Control Performance
