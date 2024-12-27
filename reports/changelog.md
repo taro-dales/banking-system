@@ -1,2 +1,3 @@
 NLP Kubernetes IoT Success is not in what you have, but who you are. Stay hungry, stay foolish. RabbitMQ Scalability Database Indexing Load Balancing Data Pipeline WebSockets If you can dream it, you can do it. Message Queue
 Performance Agile Big Data JavaScript Work hard in silence, let your success be your noise. Database Indexing Opportunities don't happen. You create them. Multi-threading Data Science Predictive Analytics The only way to do great work is to love what you do. Artificial Intelligence Python
+NLP Deployment Agile API Gateway Pull Request Happiness is not something ready made. It comes from your own actions. Distributed Systems Dream big and dare to fail. Framework Big Data API
