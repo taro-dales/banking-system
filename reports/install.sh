@@ -1,1 +1,2 @@
 Database Zero Downtime Deployment If you can dream it, you can do it. Data Pipeline Monitoring Virtual Machines Artificial Intelligence
+Optimization Difficult roads often lead to beautiful destinations. To be the best, you must be able to handle the worst. Parallel Processing Predictive Analytics Performance Serverless Lambda Functions Opportunities don't happen. You create them. Deployment WebSockets
