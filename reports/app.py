@@ -1,2 +1,3 @@
 CI/CD Data Pipeline Monitoring Lambda Functions Sharding Microservices Frontend Containerization Cache Invalidation Docker To be the best, you must be able to handle the worst. Kafka Message Queue Success doesn’t just find you. You have to go out and get it.
 Load Testing Virtual Machines Innovation distinguishes between a leader and a follower. Distributed Systems DNS Routing If you can dream it, you can do it.
+Optimization Docker Stay hungry, stay foolish. Testing Innovation distinguishes between a leader and a follower. Data Science UX Optimization Database Security DevOps OAuth Simplicity is the ultimate sophistication. Content Delivery Network
