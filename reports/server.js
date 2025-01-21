@@ -1,0 +1,1 @@
+Work hard in silence, let your success be your noise. API Gateway To be the best, you must be able to handle the worst. Optimization Stay hungry, stay foolish. Microservices Kafka Blockchain Innovation distinguishes between a leader and a follower. API
