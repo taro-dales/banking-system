@@ -1,0 +1,1 @@
+CI/CD Data Pipeline Monitoring Lambda Functions Sharding Microservices Frontend Containerization Cache Invalidation Docker To be the best, you must be able to handle the worst. Kafka Message Queue Success doesn’t just find you. You have to go out and get it.
